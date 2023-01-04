@@ -1,6 +1,6 @@
 ## Introduce
 
-Hi, I,m a back-end programmer!
+Hi!
 
 ## Skill
 
